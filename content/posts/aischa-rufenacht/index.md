@@ -1,5 +1,5 @@
 +++
-title = "Aischa Rüfenacht"
+title = "Stimmrechtsalter 16"
 date = "2024-11-04"
 draft = false
 pinned = false
