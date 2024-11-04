@@ -3,7 +3,7 @@ title = "Aischa Rüfenacht"
 date = "2024-11-04"
 draft = false
 pinned = false
-tags = ["CorpusDelicti"]
+tags = ["Stimmrechtsalter"]
 image = "buch"
 description = "Reportagen Projekt\nSind 16- und 17- jährige tatsächlich zu unreif um abstimmen zu können?"
 +++
